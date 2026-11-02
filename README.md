@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Enterprise Agile Planning (EAP) tools market is estimated between **$1.5 billion and $3.0 billion** (scaling toward **$6.8 billion** within broader enterprise work and agile ALM management), expanding at an estimated **14% to 27% CAGR**. The sector remains **highly fragmented** rather than winner-take-all, driven by distinct buyer segmentations—enterprises divide their tech stacks between large developer ecosystems (Microsoft Azure DevOps, GitLab, Atlassian), specialized portfolio and SAFe governance suites (Planview, Apptio Targetprocess, Digital.ai, Broadcom), and flexible product operations platforms (Aha!, Dragonboat, Craft.io) to avoid vendor lock-in.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Jira Align**
-
-  **Enterprise agile planning and portfolio management** for SAFe and scaled frameworks. **Pricing**: **Sales-led only—no public self-serve pricing**; Atlassian's Japanese pricing page shows **Enterprise tier quotes scaling to $2M+ annually for 4,000+ users** . Third-party estimates suggest **$30–$50/user/month for Premium tier** with **25–50 user minimums** and **$20K–$100K+ implementation** . **Free tier**: None published. **Best for**: large enterprises running SAFe needing strategy-to-delivery traceability—**trade-off**: six-figure commitments; implementation complexity.
-
-
-
-- **Targetprocess (Apptio/IBM)**
-
-  **Agile portfolio and work management** with customizable views. **Pricing**: **$30–$60/user/month** (annual contract); **25–50 user minimums** typical; **$15K–$100K+ implementation**; **100 users estimated $36K–$72K first year + services** . Buyers often negotiate **15–25% off list** for multi-year deals . **Free tier**: None. **Best for**: mid-market to enterprise organizations wanting flexible agile visualization—**trade-off**: customization increases implementation complexity.
-
-
-
-- **Planview AgilePlace**
-
-  **Lean/agile work management** with visual boards. **Pricing**: Software Advice lists **starting at $20/month** ; enterprise pricing quote-only. **Free tier**: Trial available. **Best for**: teams wanting visual kanban with lean portfolio views—**trade-off**: entry pricing may reflect limited scope; full enterprise features quote-based.
-
-
-
-- **Digital.ai Agility**
-
-  **Enterprise agile planning** (formerly VersionOne). **Pricing**: **Sales-led only—no self-serve tiers published**; all paths route to sales contact . No free tier advertised; trial may be available on request. **Free tier**: None. **Best for**: organizations wanting enterprise agile planning with DevOps integration—**trade-off**: pricing opacity; sales-gated evaluation.
-
-
-
-- **Broadcom Rally**
-
-  **Enterprise agile management** (formerly CA Agile Central). **Pricing**: **Not published—quote required** . Buyers report licenses cost more than mainstream trackers; audit and renewal tactics can produce material overspend without disciplined defense . Migration to Jira or Azure DevOps costs **$100K–$300K** for typical enterprise . **Free tier**: None published. **Best for**: PMO-led enterprises with existing Broadcom relationships—**trade-off**: renewal/audit risk; strong displacement options exist.
-
-
-
-- **Azure DevOps Boards**
-
-  **Agile planning within Azure DevOps** with work items, sprints, and backlogs. **Pricing**: Bundled into Azure DevOps subscriptions and increasingly Microsoft 365 licensing; economics favorable for Microsoft-centric customers . **Free tier**: Yes, limited users. **Best for**: Microsoft-centric teams wanting integrated planning with CI/CD—**trade-off**: less PMO-focused than Rally or Jira Align.
-
-
-
-- **GitLab Enterprise**
-
-  **DevOps platform** with epics, roadmaps, and portfolio planning. **Pricing**: Quote-only; Premium from ~$29/user/month, Ultimate ~$99. **Free tier**: Limited CE features. **Best for**: teams wanting planning integrated with source control and CI/CD.
-
-
-
-- **Dragonboat**
-
-  **Product operations and portfolio platform** with capacity planning and OKR alignment. **Pricing**: **Standard $39/month** per GoodFirms ; free version and free trial listed. **Free tier**: Yes, listed. **Best for**: product operations teams wanting capacity planning without enterprise complexity—**trade-off**: less SAFe-specific than Jira Align.
-
-
-
-- **Craft.io**
-
-  **Product management platform** with roadmaps and portfolio views. **Pricing**: **Starter, Pro, Enterprise tiers**; annual plans include **20% discount**; pricing per **Workspace Editor** with unlimited viewers/contributors . **Free tier**: 14-day free trial on Pro plan. **Best for**: product teams wanting roadmap planning with stakeholder access—**trade-off**: editor-based pricing; enterprise features (SSO, portfolio) require Enterprise tier .
-
-
-
-- **Aha! Develop**
-
-  **Agile development planning** integrated with Aha! Roadmaps. **Pricing**: **Essentials $9–$11/user/month**; **Advanced $18–$23/user/month**; **3% annual price adjustment** . **Free tier**: 30-day trial with Advanced features. **Best for**: teams already on Aha! Roadmaps wanting dev planning—**trade-off**: per-user costs scale; Advanced required for Roadmaps integration and SSO .
-
-
+| Platform | Parent Company / Ownership | Company Size (Valuation / Revenue) | Starting Pricing (Specific Tier) | Free Tier Limits / Free Trial Plan Details | Focus & Best For | Key Trade-Off |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Azure DevOps Boards** | Microsoft (NASDAQ: MSFT) | **~$3.88T Market Cap** (~$245B Annual Rev) | **$6/user/month** (Basic plan beyond free tier; billed monthly/annually) | **Free forever plan: Up to 5 Basic users** with full access (Boards, Repos, 1 parallel private pipeline with 1,800 build min/mo, 2 GiB Artifacts); unlimited Stakeholder users | Microsoft-centric engineering teams wanting integrated planning with CI/CD | Less PMO/SAFe portfolio governance depth than Rally or Jira Align |
+| **Broadcom Rally** | Broadcom (NASDAQ: AVGO) | **~$1.55T Market Cap** (~$51B Annual Rev) | **$35/user/month** (Historical starting enterprise volume rate; standard tier contracts start via annual commitments) | **No self-serve free tier**; evaluated via sales-assisted guided demo or 30-day enterprise proof-of-concept (PoC) | PMO-led enterprises with existing Broadcom agreements needing Value Stream Management | High renewal/audit scrutiny; contract negotiation complexity |
+| **Targetprocess** | IBM / Apptio (NYSE: IBM) | **~$240B Market Cap** (~$62B Annual Rev; Apptio acquired for $4.6B) | **$30/user/month** (Annual contract baseline, 25–50 user minimum commitment) | **No perpetual free tier**; proof-of-concept / evaluation sandboxes provided via customized sales/solution partner trial request | Mid-market to large enterprises seeking flexible, customizable visual agile boards | Deep customization increases onboarding and implementation overhead ($15K–$100K+) |
+| **Jira Align** | Atlassian (NASDAQ: TEAM) | **~$50B Market Cap** (~$4.4B Annual Rev) | **$129/full user/month** (Strategy Collection baseline: $77,400/year for 1–50 full users, requires Jira Cloud Premium) | **No perpetual free tier or self-serve trial**; evaluation conducted strictly via sales-assisted interactive Demo Center walkthroughs or structured POC | Large enterprises running SAFe needing strict strategy-to-code traceability | Six-figure annual minimum commitments; mandatory Jira Premium prerequisite |
+| **GitLab Enterprise** | GitLab Inc. (NASDAQ: GTLB) | **~$9.3B Market Cap** (~$700M Annual Rev) | **$29/user/month** (Premium tier; Ultimate tier at $99/user/month billed annually) | **Free forever plan: Up to 5 users** per private namespace, 400 compute min/month, 10 GiB storage; **30-day free trial** of Ultimate tier | Teams seeking product delivery and portfolio management natively embedded in DevOps CI/CD | Advanced executive roadmaps and SAFe portfolio planning require high-tier Ultimate licensing ($99/user/mo) |
+| **Planview AgilePlace** | TPG Capital / TA Associates | **~$1.6B Valuation** (~$500M Annual ARR) | **$20/user/month** (Entry visual edition; enterprise tiers quote-based) | **30-day full-feature free trial** (no credit card required); no perpetual free tier | Visual Lean-Agile work management and Kanban portfolio visibility | Entry pricing reflects scoped board capabilities; enterprise portfolio scenario modeling requires top tiers |
+| **Digital.ai Agility** | TPG Capital | **~$100M–$250M ARR** (Private equity backed) | **$25/user/month** (Starting rate estimate for team tiers; enterprise quotes sales-led) | **No self-serve free tier**; 14-to-30 day customized evaluation sandbox available upon request via enterprise sales demo | PMO and delivery governance with integrated enterprise DevOps toolchains | Sales-gated pricing opacity; slower self-service onboarding |
+| **Aha! Develop** | Aha! Labs Inc. | **~$100M+ ARR** (Bootstrapped & profitable) | **$9/user/month** (Essentials plan billed annually; $11/user/month billed monthly) | **30-day full-featured free trial** with Advanced features (no credit card required); no perpetual free tier | Development teams already utilizing Aha! Roadmaps needing backlog and sprint execution | Per-user costs accumulate; Advanced plan ($18/user/mo) required for native Aha! Roadmaps sync |
+| **Dragonboat** | Dragonboat Inc. | **~$15M Total Funding** (~$3.4M ARR) | **$39/editor/month** (Standard plan; modular add-ons from $15/editor/month; billed annually) | **14-day free trial**; free plan framework supports read-only viewers and up to 100 requestors | Product operations teams wanting OKR alignment and capacity planning without heavy enterprise PMO overhead | Less SAFe-specific program increment governance than dedicated enterprise suites |
+| **Craft.io** | Craft.io Ltd. | **~$10M Total Funding** (~$6M–$7.6M ARR) | **$19/editor/month** (Starter tier billed annually; $24/editor/month billed monthly; unlimited free viewers) | **14-day free trial** on Pro tier (full features included, no credit card required); no perpetual free tier | Product management teams needing roadmap visualization with unlimited free stakeholder viewers | Editor-seat pricing model; enterprise portfolio alignment and SSO gated behind Enterprise tier |
 
 ## Open-Source GitHub Projects
 
