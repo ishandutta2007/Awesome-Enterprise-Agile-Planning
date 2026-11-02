@@ -9,7 +9,7 @@
 **Curated Benchmark of SaaS Platforms & Self-Hosted Open-Source Agile Planning Suites** 🌟
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Agile-Planning?style=social)](https://github.com/ishandutta2007/Awesome-Enterprise-Agile-Planning/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Agile-Planning?style=social)](https://github.com/ishandutta2007/Awesome-Enterprise-Agile-Planning/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Agile-Planning?style=social)](https://github.com/ishandutta2007/Awesome-Enterprise-Agile-Planning/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ The table below benchmarks prominent commercial enterprise agile planning tools,
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted and open-source project management stacks that support agile sprint cycles, Kanban boards, Gantt timelines, and portfolio governance. Repositories are sorted in **descending order by GitHub star count**:
+Self-hosted and open-source project management stacks that support agile sprint cycles, Kanban boards, Gantt timelines, and portfolio governance. Repositories are sorted in **descending order by GitHub Stars_Count**:
 
-### 1. ✈️ [Plane](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+### 1. ✈️ [Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
 * **License:** AGPL-3.0 / Commercial Enterprise
 * **Tech Stack:** Python, Django, TypeScript, Next.js, PostgreSQL, Redis, Docker
 * **Overview:** The most popular modern open-source alternative to Jira and Linear. Plane provides issue tracking, epics, modules, cycle (sprint) planning, customizable boards (Kanban, List, Calendar, Gantt), team workspaces, and real-time collaboration.
@@ -77,7 +77,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 2. 📋 [Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
+### 2. 📋 [Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
 * **License:** MIT / Apache-2.0
 * **Tech Stack:** Go, TypeScript, React, PostgreSQL / SQLite
 * **Overview:** Developed as an open-source alternative to Trello, Notion, and Asana. Focalboard allows multi-format project tracking using Kanban boards, tables, calendars, and galleries. Integrates smoothly as a native board inside Mattermost.
@@ -86,7 +86,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 3. 📌 [WeKan](https://github.com/wekan/wekan) [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
+### 3. 📌 [WeKan](https://github.com/wekan/wekan) [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
 * **License:** MIT
 * **Tech Stack:** Node.js, Meteor, MongoDB, Docker
 * **Overview:** A seasoned, fully open-source Kanban board solution. Features customizable swimlanes, card voting, rule-based automation, time tracking, multi-language support, and LDAP/OAuth enterprise authentication.
@@ -95,7 +95,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 4. 🏢 [OpenProject](https://github.com/opf/openproject) [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+### 4. 🏢 [OpenProject](https://github.com/opf/openproject) [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
 * **License:** GPL-3.0
 * **Tech Stack:** Ruby on Rails, Angular, PostgreSQL, Docker
 * **Overview:** The most feature-complete open-source enterprise project and portfolio management software suite. Includes traditional Gantt charts, interactive Kanban and Scrum boards, baseline cost tracking, resource workload reporting, budgeting, and roadmap management.
@@ -104,7 +104,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 5. 🗂️ [Planka](https://github.com/plankanban/planka) [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+### 5. 🗂️ [Planka](https://github.com/plankanban/planka) [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
 * **License:** AGPL-3.0
 * **Tech Stack:** Node.js, React, Redux, PostgreSQL, Docker
 * **Overview:** An elegant, lightweight, and responsive real-time Kanban board designed for agile teams. Supports custom card fields, attachments, member assignments, card stopwatches for time tracking, and markdown comments.
@@ -113,7 +113,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 6. 🎯 [Leantime](https://github.com/Leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
+### 6. 🎯 [Leantime](https://github.com/Leantime/leantime) [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
 * **License:** AGPL-3.0
 * **Tech Stack:** PHP, JavaScript, MySQL, Docker
 * **Overview:** Strategic project management system blending goal-driven planning (OKRs, Lean Canvas) with execution (Scrum sprints, Kanban, milestone timelines, idea backlogs, and time tracking).
@@ -122,7 +122,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 7. 🐞 [Redmine](https://github.com/redmine/redmine) [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
+### 7. 🐞 [Redmine](https://github.com/redmine/redmine) [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
 * **License:** GPL-2.0
 * **Tech Stack:** Ruby on Rails, MySQL / PostgreSQL
 * **Overview:** A veteran battle-tested web-based project management application. Offers multi-project tracking, role-based access control, issue tracking, Gantt charts, calendar views, wikis, and an expansive plugin ecosystem (including Scrum and agile plugins).
@@ -131,7 +131,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 8. ✅ [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
+### 8. ✅ [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
 * **License:** AGPL-3.0
 * **Tech Stack:** Go, Vue.js, PostgreSQL / MySQL / SQLite, Docker
 * **Overview:** Fast, self-hosted to-do and task management suite. Unifies your workflows across multiple synchronized perspectives: Kanban boards, Gantt timelines, tables, and task lists.
@@ -140,7 +140,7 @@ Self-hosted and open-source project management stacks that support agile sprint 
 
 ---
 
-### 9. 🐳 [Taiga (Docker Engine)](https://github.com/taigaio/taiga-docker) [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
+### 9. 🐳 [Taiga (Docker Engine)](https://github.com/taigaio/taiga-docker) [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
 * **License:** MPL-2.0 / Apache-2.0
 * **Tech Stack:** Python, Django, AngularJS, PostgreSQL, Docker
 * **Overview:** The complete containerized distribution of Taiga, the beloved open-source agile project tool designed for startups, designers, and Scrum enthusiasts. Features dedicated Scrum backlogs, sprint estimation poker, epics, user stories, burndown charts, and Kanban boards.
